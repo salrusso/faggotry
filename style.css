@@ -12,12 +12,10 @@ text-align: center;
 .faggotry {
 color: #ff97f3;
 }
-.insertp {
-    height: 469px;
-}
+
 .fuckit {
     display: block;
-
+	height: 400px;
     width: 450px;
     overflow: scroll;
     overflow-x: hidden;
