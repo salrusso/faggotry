@@ -14,7 +14,7 @@ color: #ff97f3;
 }
 
 .fuckit {
-    height: 669px;
+    max-height: 200px;
     width: 450px;
     overflow: scroll;
     overflow-x: hidden;
