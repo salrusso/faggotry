@@ -1,5 +1,12 @@
+body {
+background-color: #444;
+color: #EEE;
+font-family: "IBM PLEX MONO", "Consolas", monospace;
+}
+
 h1 {
 text-align: center;
+
 }
 
 .fuckit {
@@ -8,6 +15,9 @@ text-align: center;
     overflow: scroll;
     overflow-x: hidden;
     margin: 0 auto;
+    font-family: "Source Sans Pro", system-ui;
+    font-size: 15.5pt;
+    padding-right: 1em;
 }
 .fuckit {
   --sb-track-color: #232E33;
